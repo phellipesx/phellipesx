@@ -3,15 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AD11FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%9C+Welcome+to+my+GitHub%2C+feel+free!!)](https://git.io/typing-svg)
 </div>
 
-<div align="center">
-
-
-<img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
-</div>
-
-
 <div align="left">
 
 # 🦦 About me
@@ -25,21 +16,22 @@
 🚀 I'm excited to share my progress, projects, and contributions here on GitHub. Join me on this journey of learning and discovery! 
 
 ## 👋 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/matheus-phelipe-barros-b1a298201/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-phelipe-barros-b1a298201/)
 
 ## 📚 Studying in this moment
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phellipesxF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phellipesx&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phellipesxF&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phellipesx&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=phellipesxF&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=phellipesx&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 ## 🛠️ Tools
 
